@@ -23,7 +23,7 @@
     "rc": "0.6.0",
     "sails": "1.5.3",
     "sails-disk": "0.10.10",
-    "sails-mysql": "0.10.12",
+    "sails-mysql": "0.12.2",
     "sails-redis": "0.10.7"
   },
   "scripts": {
